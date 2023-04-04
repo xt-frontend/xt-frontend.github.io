@@ -2,7 +2,7 @@
 name: "XT Frontend"
 title: "XT Frontend"
 description: "XT Frontend 개발 블로그입니다."
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo-xt.png'
 favicon: 'assets/images/logo.png'
 url: "https://xt-frontend.github.io"
 baseurl: ""
