@@ -101,6 +101,9 @@ section.recent-posts {
     .navbar-expand-lg .navbar-nav .nav-link {
         padding-right: 0.8rem;
         padding-left: 0.8rem;
+        
+        .container {
+            padding-left: 0;
     }
 }
 
