@@ -3,7 +3,7 @@ layout: post
 title: "안녕하세요. XT 프론트엔드 개발실 기술 블로그입니다."
 author: ddacheol
 categories: [test]
-# image: assets/images/12.jpg
+image: assets/images/12.jpg
 featured: true
 hidden: true
 ---
