@@ -10,13 +10,6 @@ hidden: false
 
 안녕하세요. XT 프론트엔드 개발실 기술 블로그입니다.
 
-## test
-
-```html
-<span class="spoiler">코드 입력 가능!</span>
-<img src="/assets/images/12.jpg" alt="test img" />
-```
-
 ## CSS
 
 ```css
