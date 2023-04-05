@@ -4,9 +4,10 @@ title: "XT Frontend"
 description: "XT Frontend 개발 블로그입니다."
 logo: "assets/images/logo-xt.png"
 favicon: "assets/images/logo-xt.png"
-url: "http://localhost:4000"
-# baseurl: https://xt-frontend.github.io
-baseurl: ""
+url: "https://xt-frontend.github.io"
+# url: "http://localhost:4000"
+baseurl: https://xt-frontend.github.io
+# baseurl: ""
 google_analytics: "UA-46278016-1"
 disqus: "demowebsite"
 mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
