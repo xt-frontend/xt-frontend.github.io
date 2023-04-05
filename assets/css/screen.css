@@ -10,6 +10,10 @@ License: https://www.wowthemes.net/freebies-license/
   .container {
     max-width: 80%;
   }
+
+  .navbar .container {
+    padding-left: 0;
+  }
 }
 .mainheading {
   padding: 1rem 0rem;
