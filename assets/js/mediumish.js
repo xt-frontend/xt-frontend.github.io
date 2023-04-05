@@ -47,14 +47,15 @@ jQuery(document).ready(function ($) {
           this.pathname.replace(/^\//, "") &&
         location.hostname == this.hostname
       ) {
-        smoothScrollTo($(this.hash));
+        smoothScrollTo($(decodeURI(this.hash)));
         return false;
       }
     });
 
     function smoothScrollTo(target) {
-      target = target.length ? target : $("[name=" + this.hash.slice(1) + "]");
-
+      target = target.length
+        ? target
+        : $("[name=" + decodeURI(this.hash).slice(1) + "]");
       if (target.length) {
         $("html,body").animate(
           {
