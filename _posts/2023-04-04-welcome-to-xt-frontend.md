@@ -6,7 +6,7 @@ categories: [Blog Usage]
 image: assets/images/12.jpg
 featured: true
 hidden: false
-beforetoc: "beforetoc (목차 전 노출되는 글)"
+beforetoc: "본 게시글은 기본적인 github 블로그 사용법에 대해 알려드리는 글입니다. (목차 전 노출되는 글)"
 toc: true
 rating: 5
 ---
@@ -22,10 +22,17 @@ rating: 5
 3. clone 받은 프로젝트 폴더를 vscode로 열고 작업합니다.
 4. push시 에러가 발생하면 <a href="https://ssimplay.tistory.com/787" target="_blank">해당 글을 참고</a>하여 sourcetree와 github 계정의 토큰을 연동합니다.
 
-### 1) 게시글 작성법
+## 게시글 작성법
 
-기본적인 글 작성법입니다.
-작성할 본문 파일은
+기본적인 글 작성법입니다.<br />
+작성할 본문 파일은 \_posts 폴더에 생성합니다. <br />
+파일 생성 시 주의할 점은 정해진 양식에 맞춰 파일명을 작성해야 합니다.
+
+YYYY-MM-DD-title.md
+<br />
+ex)2023-04-04-welcome-to-xt-frontend.md
+
+파일을 만들었다면 최상단에 아래 코드와 같이 작성해줍니다.
 
 ```html
 ---
@@ -40,16 +47,11 @@ featured: true <!-- 홈의 상단 featured에 노출 시킬지 여부 -->
 hidden: false  <!-- featured: true인 경우 홈의 하단 All Posts에 게시글을 노출 시킬지 여부 -->
 toc: true <!-- true인 경우 본문 대타이틀 기준으로 본문 및 사이드바에 목차 생성. 클릭시 anchor이동 -->
 beforetoc: "Test" <!-- 본문에서 목차 이전에 노출시킬 텍스트 -->
-
 rating: 4.5 <!-- 별점 기능. 0부터 5까지 0.5단위로 작성 (맛집 리뷰글 작성 시 유용할듯 함) -->
 ---
 ```
 
-### 2) 게시글 작성법2
-
-아아악
-
-## CSS
+<!-- ## CSS
 
 ```css
 .highlight .c {
@@ -94,4 +96,4 @@ puts markdown.to_html
 
 ```c
 printf("Hello World");
-```
+``` -->
