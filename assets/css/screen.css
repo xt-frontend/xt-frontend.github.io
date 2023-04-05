@@ -5,7 +5,7 @@ License: https://www.wowthemes.net/freebies-license/
 */
 @media screen and (min-width: 1500px) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   } /* Increase the font size on higher resolutions */
   .container {
     max-width: 80%;
@@ -371,7 +371,7 @@ blockquote {
 }
 
 .share .index-title {
-  font-size: 16px;
+  font-size: 1rem;
   color: #000;
   font-weight: 500;
 }
@@ -405,7 +405,7 @@ blockquote {
 
 .share .toc ul li {
   display: list-item;
-  font-size: 14px;
+  font-size: 0.875rem;
 }
 
 .svgIcon {

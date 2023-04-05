@@ -15,6 +15,17 @@ rating: 4.5
 
 > 안녕하세요! 기본적인 블로그 사용법에 대해 알려드리겠습니다.
 
+## 기본 세팅
+
+1. <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">github 계정을 생성</a>합니다.
+2. 계정 생성 후 git 초대까지 완료 되었으면, <a href="https://github.com/xt-frontend/xt-frontend.github.io" target="_blank">https://github.com/xt-frontend/xt-frontend.github.io</a>에 접속 후 sourcetree를 이용해 clone을 받습니다.
+3. clone 받은 프로젝트 폴더를 vscode로 열고 작업합니다.
+4. push시 에러가 나면 <a href="https://ssimplay.tistory.com/787" target="_blank">해당 글을 참고</a>하여 sourcetree와 github 계정의 토큰을 연동합니다.
+
+## 게시글 작성법
+
+기본적인 글 작성법입니다.
+
 ```html
 ---
 layout: post <!-- 게시 구분 "post로 설정" -->
