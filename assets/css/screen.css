@@ -324,7 +324,6 @@ span.post-read-more a:hover {
   font-size: 0.8rem;
   color: rgba(0, 0, 0, 0.44);
   margin-top: 50px;
-  margin-bottom: 62px;
   position: relative;
   background: #fff;
 }
@@ -358,12 +357,19 @@ blockquote {
 }
 
 .share {
-  text-align: center;
+  text-align: left;
+  word-break: break-word;
 }
 
 .share p {
   margin-bottom: 10px;
   font-size: 0.95rem;
+}
+
+.share .index-title {
+  font-size: 16px;
+  color: #000;
+  font-weight: 500;
 }
 
 .share ul li {
@@ -383,6 +389,19 @@ blockquote {
   line-height: 30px;
   text-align: center;
   border-radius: 50%;
+}
+
+.share .toc ul {
+  padding-left: 16px;
+}
+
+.share .toc ul * {
+  color: #888;
+}
+
+.share .toc ul li {
+  display: list-item;
+  font-size: 14px;
 }
 
 .svgIcon {
@@ -524,8 +543,8 @@ ul.tags li a:hover {
   height: 1px;
   width: 20px;
   background: #999;
-  margin: 0px auto;
-  margin-bottom: 1.2rem;
+  /* margin: 0px auto; */
+  margin-bottom: 0.6rem;
 }
 
 .btn.follow {

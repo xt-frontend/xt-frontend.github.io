@@ -6,9 +6,25 @@ categories: [Blog Usage]
 image: assets/images/12.jpg
 featured: true
 hidden: false
+toc: true
 ---
 
 안녕하세요. XT 프론트엔드 개발실 기술 블로그입니다.
+
+> 안녕하세요! 기본적인 블로그 사용법에 대해 알려드리겠습니다.
+
+```html
+---
+layout: post
+title: "안녕하세요. XT 프론트엔드 개발실 기술 블로그입니다."
+author: kangdaecheol
+categories: [Blog Usage]
+tags: [red, yellow]
+image: assets/images/11.jpg
+description: "My review of Inception movie. Actors, directing and more."
+rating: 4.5
+---
+```
 
 ## CSS
 
@@ -23,7 +39,7 @@ hidden: false
 }
 ```
 
-#### JS
+## JS
 
 ```js
 // alertbar later
@@ -37,13 +53,13 @@ $(document).scroll(function () {
 });
 ```
 
-#### Python
+## Python
 
 ```python
 print("Hello World")
 ```
 
-#### Ruby
+## Ruby
 
 ```ruby
 require 'redcarpet'
@@ -51,7 +67,7 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-#### C
+## C
 
 ```c
 printf("Hello World");
