@@ -101,12 +101,12 @@ authors:
     description: "XT 프론트엔드 개발실 소원진 대리입니다."
 
   # 전현정
-  jeonhyunjeong:
-    name: XT Frontend Jeon Hyunjeong
-    display_name: XT Frontend Jeon Hyunjeong
-    avatar: "assets/images/avatar.png"
+  jeonhyeonjeong:
+    name: XT Frontend Jeon Hyeonjeong
+    display_name: XT Frontend Jeon Hyeonjeong
+    avatar: "assets/images/avatar/jhj.png"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: mcrg012@ex-it.co.kr
+    email: jeonhyeonjeong@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "XT 프론트엔드 개발실 전현정 주임입니다."
