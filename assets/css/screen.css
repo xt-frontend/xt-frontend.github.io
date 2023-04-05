@@ -408,6 +408,17 @@ blockquote {
   font-size: 0.875rem;
 }
 
+.share .toc ul li ul {
+  padding-left: 0;
+  margin-top: 5px;
+}
+
+.share .toc ul li ul li {
+  list-style: none;
+  margin-bottom: 5px;
+  font-size: 12px;
+}
+
 .svgIcon {
   vertical-align: middle;
 }
