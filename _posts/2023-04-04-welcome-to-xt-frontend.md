@@ -34,7 +34,7 @@ ex)2023-04-04-welcome-to-xt-frontend.md
 
 ```html
 ---
-layout: post <!-- 필수값. 게시 구분 "post로 설정" -->
+layout: post <!-- 필수값. 게시 구분. page, post 중 "post로 설정" -->
 title: "안녕하세요. XT 프론트엔드 개발실 기술 블로그입니다." <!-- 필수값. 본문 타이틀 -->
 description: "Test" <!-- 필수값. meta 태그 description -->
 author: kangdaecheol <!-- 필수값. 작성자 이름. _config.yml에 등록된 작성자 변수명과 동일하게 설정 -->
@@ -61,9 +61,11 @@ Example
 <p class="test">태그 안에 감싸서 작성 가능</p>
 ```
 
-### 3) 사용 가능한 다양한 마크업 기능
+### 3) 마크다운(Markdown) 문법
 
 태그를 감싸지 않고 h2~h6 태그나 리스트, 인용문, 텍스트 강조, 코드 미러 등 다양한 마크업 기능을 사용할 수도 있습니다.
+
+이러한 문법을 `마크다운(Markdown)문법`이라고 합니다.
 
 #### - h2~h6 태그
 
@@ -254,6 +256,8 @@ C
 
 printf("Hello World");
 ````
+
+더 다양한 `마크다운(Markdown)문법`을 확인하고 싶으면 <a href="https://gist.github.com/ihoneymon/652be052a0727ad59601" target="_blank">해당 링크</a>에서 확인하시면 됩니다.
 
 ## 마무리
 
