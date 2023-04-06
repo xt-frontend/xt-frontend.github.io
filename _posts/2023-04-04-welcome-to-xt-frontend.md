@@ -13,7 +13,7 @@ rating: 5
 
 안녕하세요. XT 프론트엔드 개발실 기술 블로그입니다. (본문)
 
-> 안녕하세요! 기본적인 블로그 사용법에 대해 알려드리겠습니다.
+<!-- > 안녕하세요! 기본적인 블로그 사용법에 대해 알려드리겠습니다. -->
 
 ## 기본 설정
 
@@ -32,24 +32,29 @@ YYYY-MM-DD-title.md
 <br />
 ex)2023-04-04-welcome-to-xt-frontend.md
 
-파일을 만들었다면 최상단에 아래 코드와 같이 작성해줍니다.
+### 1) 게시글 기본 설정
+
+파일을 생성했다면 최상단에 아래 코드와 같이 작성해줍니다.
+아래 코드는 타이틀을 비롯한 게시글의 기본 설정값으로, 필수값을 제외하고 필요한 값만 작성해주면 됩니다.
 
 ```html
 ---
-layout: post <!-- 게시 구분 "post로 설정" -->
-title: "안녕하세요. XT 프론트엔드 개발실 기술 블로그입니다." <!-- 본문 타이틀 -->
-description: "Test" <!-- meta 태그 description -->
-author: kangdaecheol <!-- 작성자 이름. _config.yml에 등록된 작성자 변수명과 동일하게 설정 -->
-categories: [Blog Usage] <!-- 본문의 카테고리 구분. 본문 하단에 생성됨 -->
-tags: [red, yellow] <!-- 본문의 태그. 본문 하단에 생성됨 -->
+layout: post <!-- 필수값. 게시 구분 "post로 설정" -->
+title: "안녕하세요. XT 프론트엔드 개발실 기술 블로그입니다." <!-- 필수값. 본문 타이틀 -->
+description: "Test" <!-- 필수값. meta 태그 description -->
+author: kangdaecheol <!-- 필수값. 작성자 이름. _config.yml에 등록된 작성자 변수명과 동일하게 설정 -->
+categories: [Blog Usage] <!-- 선택값. 본문의 카테고리 구분. 본문 하단에 생성됨 -->
+tags: [red, yellow] <!-- 선택값. 본문의 태그. 본문 하단에 생성됨 -->
 image: assets/images/11.jpg <!-- 필수값. 게시글에 노출되는 기본 이미지 및 썸네일 이미지 -->
-featured: true <!-- 홈의 상단 featured에 노출 시킬지 여부 -->
-hidden: false  <!-- featured: true인 경우 홈의 하단 All Posts에 게시글을 노출 시킬지 여부 -->
-toc: true <!-- true인 경우 본문 대타이틀 기준으로 본문 및 사이드바에 목차 생성. 클릭시 anchor이동 -->
-beforetoc: "Test" <!-- 본문에서 목차 이전에 노출시킬 텍스트 -->
-rating: 4.5 <!-- 별점 기능. 0부터 5까지 0.5단위로 작성 (맛집 리뷰글 작성 시 유용할듯 함) -->
+featured: true <!-- 선택값. 홈의 상단 featured에 노출 시킬지 여부 -->
+hidden: false  <!-- 선택값. featured: true인 경우 홈의 하단 All Posts에 게시글을 노출 시킬지 여부 -->
+toc: true <!-- 선택값. true인 경우 본문 대타이틀 기준으로 본문 및 사이드바에 목차 생성. 클릭시 anchor이동 -->
+beforetoc: "Test" <!-- 선택값. toc: true일 경우 본문에서 목차 이전에 노출시킬 텍스트 -->
+rating: 4.5 <!-- 선택값. 별점 기능. 0부터 5까지 0.5단위로 작성 -->
 ---
 ```
+
+### 2) 본문 내용 작성
 
 <!-- ## CSS
 

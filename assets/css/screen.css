@@ -508,6 +508,10 @@ blockquote {
   .post-top-meta.authorpage {
     text-align: center;
   }
+
+  .share {
+    display: none;
+  }
 }
 
 .share,
