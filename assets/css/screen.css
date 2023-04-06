@@ -362,6 +362,7 @@ span.post-read-more a:hover {
   font-size: 1.1rem;
   line-height: 1.84;
   color: rgba(0, 0, 0, 0.8);
+  word-break: break-word;
 }
 
 blockquote {
@@ -378,6 +379,8 @@ blockquote {
 
 .article-post p + h2,
 .article-post blockquote + h2,
+.article-post ul + h2,
+.article-post img + h2,
 .article-post ol + h2,
 .article-post div + h2 {
   margin-top: 3rem;
