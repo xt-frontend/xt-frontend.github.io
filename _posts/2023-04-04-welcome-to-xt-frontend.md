@@ -5,12 +5,10 @@ author: kangdaecheol
 categories: [Blog Usage]
 tags: [test]
 image: assets/images/12.jpg
-beforetoc: "본 게시글은 기본적인 github 블로그 사용법에 대해 알려드리는 글입니다."
+beforetoc: "본 게시글은 기본적인 github 블로그 사용 방법에 대해 알려드리는 글입니다."
 toc: true
 rating: 5
 ---
-
-<!-- > 안녕하세요! 기본적인 블로그 사용법에 대해 알려드리겠습니다. -->
 
 ## 블로그 작성을 위한 기본 설정
 
@@ -65,7 +63,7 @@ Example
 
 ### 3) 사용 가능한 다양한 마크업 기능
 
-태그를 감싸지 않고 h2~h6 태그나 리스트, 인용문, 텍스트 강조, 코드미러 등 다양한 마크업 기능을 사용할 수도 있습니다.
+태그를 감싸지 않고 h2~h6 태그나 리스트, 인용문, 텍스트 강조, 코드 미러 등 다양한 마크업 기능을 사용할 수도 있습니다.
 
 #### - h2~h6 태그
 
@@ -88,14 +86,91 @@ Example
 
 #### - 리스트
 
-- 도트형 리스트1
-- 도트형 리스트2
+리스트는 크게 도트형 리스트, 숫자형 리스트로 나뉩니다.
 
 ```html
-- 도트형 리스트1 - 도트형 리스트2
+<!-- 도트형 리스트 
+
+- 도트형 리스트1
+- 도트형 리스트2
+- 도트형 리스트3
+
+-->
+
+<!-- 숫자형 리스트
+
+1. 숫자형 리스트1 
+2. 숫자형 리스트2 
+3. 숫자형 리스트3
+
+-->
 ```
 
-<!-- ## CSS
+Result
+
+- 도트형 리스트1
+- 도트형 리스트2
+- 도트형 리스트3
+
+1. 숫자형 리스트1
+2. 숫자형 리스트2
+3. 숫자형 리스트3
+
+#### - 인용문
+
+```html
+<!-- 인용문
+
+> 안녕하세요! 기본적인 블로그 사용 방법에 대해 알려드리겠습니다. - XT 프론트엔드 개발실 강대철
+
+-->
+```
+
+Result
+
+> 안녕하세요! 기본적인 블로그 사용 방법에 대해 알려드리겠습니다. - XT 프론트엔드 개발실 강대철
+
+#### - 텍스트 강조
+
+```html
+<!-- 텍스트 강조
+
+`강조 텍스트`
+
+이 텍스트는 `강조 텍스트`입니다.
+
+-->
+```
+
+Result
+
+`강조 텍스트`
+
+이 텍스트는 `강조 텍스트`입니다.
+
+#### - 코드 미러
+
+HTML
+
+````html
+<!-- 
+```html
+<div class="container">
+  <p class="typography">텍스트</p>
+</div>
+```
+-->
+
+<!-- Result -->
+<div class="container">
+  <p class="typography">텍스트</p>
+</div>
+````
+
+CSS
+
+````css
+/*
 ```css
 .highlight .c {
   color: #999988;
@@ -106,11 +181,34 @@ Example
   background-color: #e3d2d2;
 }
 ```
+*/
 
-## JS
+/* Result */
+.highlight .c {
+  color: #999988;
+  font-style: italic;
+}
+.highlight .err {
+  color: #a61717;
+  background-color: #e3d2d2;
+}
+````
 
-```js
-// alertbar later
+JS
+
+````js
+// ```js
+// $(document).scroll(function () {
+//   var y = $(this).scrollTop();
+//   if (y > 280) {
+//     $(".alertbar").fadeIn();
+//   } else {
+//     $(".alertbar").fadeOut();
+//   }
+// });
+// ```
+
+// Result
 $(document).scroll(function () {
   var y = $(this).scrollTop();
   if (y > 280) {
@@ -119,24 +217,45 @@ $(document).scroll(function () {
     $(".alertbar").fadeOut();
   }
 });
-```
+````
 
-## Python
+Python
 
-```python
+````python
+# ```python
+# print("Hello World")
+# ```
+
+# Result
 print("Hello World")
-```
+````
 
-## Ruby
+Ruby
 
-```ruby
+````ruby
+# ```ruby
+# require 'redcarpet'
+# markdown = Redcarpet.new("Hello World!")
+# puts markdown.to_html
+# ```
+
+# Result
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
-```
+````
 
-## C
+C
 
-```c
+````c
+// ```c
+// printf("Hello World");
+// ```
+
 printf("Hello World");
-``` -->
+````
+
+## 게시글 작성법 끝
+
+지금까지 github 블로그 사용 방법에 대해 알아보았습니다. <br />
+글로 이해가 잘 안되실 경우, \_posts/2023-04-04-welcome-to-xt-frontend.md 파일을<br /> 참고하시면 이해에 도움이 될 것 같습니다.<br />감사합니다.

@@ -368,6 +368,10 @@ blockquote {
   margin-top: 1.5rem;
 }
 
+.article-post .highlighter-rouge {
+  font-size: 1.1rem;
+}
+
 .featured-image {
   display: block;
   margin-bottom: 1.5rem;
