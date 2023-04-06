@@ -23,9 +23,9 @@ rating: 5
 작성할 본문 파일은 \_posts 폴더에 생성합니다. <br />
 파일 생성 시 주의할 점은 정해진 양식에 맞춰 파일명을 작성해야 합니다.
 
-YYYY-MM-DD-title.md
+YYYY-MM-DD-HH-mm-title.md
 <br />
-ex)2023-04-04-welcome-to-xt-frontend.md
+ex)2023-04-04-23-00-welcome-to-xt-frontend.md
 
 ### 1) 게시글 기본 설정
 
@@ -262,4 +262,4 @@ printf("Hello World");
 ## 마무리
 
 지금까지 github 블로그 사용 방법에 대해 알아보았습니다. <br />
-글로 이해가 잘 안되실 경우, \_posts/2023-04-04-welcome-to-xt-frontend.md 파일을<br /> 참고하시면 이해에 도움이 될 것 같습니다.<br />감사합니다.
+글로 이해가 잘 안되실 경우, \_posts/2023-04-04-23-00-welcome-to-xt-frontend.md 파일을<br /> 참고하시면 이해에 도움이 될 것 같습니다.<br />감사합니다.
