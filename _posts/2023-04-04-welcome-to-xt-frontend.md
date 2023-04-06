@@ -3,7 +3,7 @@ layout: post
 title: "안녕하세요. XT 프론트엔드 개발실 기술 블로그입니다."
 author: kangdaecheol
 categories: [Blog Usage]
-tags: [test]
+tags: [블로그 사용 방법]
 image: assets/images/12.jpg
 beforetoc: "본 게시글은 기본적인 github 블로그 사용 방법에 대해 알려드리는 글입니다."
 toc: true
