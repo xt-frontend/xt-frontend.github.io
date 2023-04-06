@@ -409,7 +409,7 @@ blockquote {
 }
 
 .share .toc ul li ul {
-  padding-left: 0;
+  padding-left: 5px;
   margin-top: 5px;
 }
 

@@ -3,8 +3,9 @@ layout: post
 title: "안녕하세요. XT 프론트엔드 개발실 기술 블로그입니다."
 author: kangdaecheol
 categories: [Blog Usage]
+tags: [test]
 image: assets/images/12.jpg
-beforetoc: "본 게시글은 기본적인 github 블로그 사용법에 대해 알려드리는 글입니다. (목차 전 노출되는 글)"
+beforetoc: "본 게시글은 기본적인 github 블로그 사용법에 대해 알려드리는 글입니다."
 toc: true
 rating: 5
 ---
@@ -13,14 +14,14 @@ rating: 5
 
 <!-- > 안녕하세요! 기본적인 블로그 사용법에 대해 알려드리겠습니다. -->
 
-## 기본 설정
+# 블로그 작성을 위한 기본 설정
 
 1. <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">github 계정을 생성</a>합니다.
 2. 계정 생성 후 git 초대까지 완료 되었으면, <a href="https://github.com/xt-frontend/xt-frontend.github.io" target="_blank">https://github.com/xt-frontend/xt-frontend.github.io</a>에 접속 후 sourcetree를 이용해 clone을 받습니다.
 3. clone 받은 프로젝트 폴더를 vscode로 열고 작업합니다.
 4. push시 에러가 발생하면 <a href="https://ssimplay.tistory.com/787" target="_blank">해당 글을 참고</a>하여 sourcetree와 github 계정의 토큰을 연동합니다.
 
-## 게시글 작성법
+# 게시글 작성법
 
 기본적인 글 작성법입니다.<br />
 작성할 본문 파일은 \_posts 폴더에 생성합니다. <br />
@@ -30,7 +31,7 @@ YYYY-MM-DD-title.md
 <br />
 ex)2023-04-04-welcome-to-xt-frontend.md
 
-### 1) 게시글 기본 설정
+## 1) 게시글 기본 설정
 
 파일을 생성했다면 최상단에 아래 코드와 같이 작성해줍니다.
 아래 코드는 타이틀을 비롯한 게시글의 기본 설정값으로, 필수값을 제외하고 필요한 값만 작성해주면 됩니다.
@@ -46,13 +47,13 @@ tags: [red, yellow] <!-- 선택값. 본문의 태그. 본문 하단에 생성됨
 image: assets/images/11.jpg <!-- 필수값. 게시글에 노출되는 기본 이미지 및 썸네일 이미지 -->
 featured: true <!-- 선택값. 홈의 상단 featured에 노출 시킬지 여부. -->
 hidden: false  <!-- 선택값. featured: true인 경우 홈의 하단 All Posts에 게시글을 노출 시킬지 여부 -->
-toc: true <!-- 선택값. true인 경우 본문 대타이틀 기준으로 본문 및 사이드바에 목차 생성. 클릭시 anchor이동 -->
+toc: true <!-- 선택값. true인 경우 본문 타이틀 기준으로 본문 및 사이드바에 목차 생성. 클릭시 해당 타이틀로 anchor이동 -->
 beforetoc: "Test" <!-- 선택값. toc: true일 경우 본문에서 목차 이전에 노출시킬 텍스트 -->
 rating: 4.5 <!-- 선택값. 별점 기능. 0부터 5까지 0.5단위로 작성 -->
 ---
 ```
 
-### 2) 본문 내용 작성
+## 2) 본문 내용 작성
 
 <!-- ## CSS
 
