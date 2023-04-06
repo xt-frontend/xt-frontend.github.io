@@ -15,8 +15,14 @@ License: https://www.wowthemes.net/freebies-license/
     padding-left: 0;
   }
 }
+
 .mainheading {
   padding: 1rem 0rem;
+}
+
+.featured-image,
+.article-post img {
+  width: 100%;
 }
 
 a {
@@ -353,6 +359,13 @@ blockquote {
 .article-post p,
 .article-post blockquote {
   margin: 0 0 1.5rem 0;
+}
+
+.article-post p + h1,
+.article-post blockquote + h1,
+.article-post ol + h1,
+.article-post div + h1 {
+  margin-top: 1.5rem;
 }
 
 .featured-image {
