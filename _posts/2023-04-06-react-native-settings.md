@@ -4,7 +4,7 @@ title: "React Native 설정"
 author: kimgyutae
 categories: [React Native]
 tags: [reactnative, 리액트네이티브, 설치가이드]
-image: assets/images/12.jpg
+image: assets/images/react-native.png
 toc: true
 ---
 
