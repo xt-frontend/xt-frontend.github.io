@@ -4,8 +4,6 @@ title: "안녕하세요. XT 프론트엔드 개발실 기술 블로그입니다.
 author: kangdaecheol
 categories: [Blog Usage]
 image: assets/images/12.jpg
-featured: true
-hidden: false
 beforetoc: "본 게시글은 기본적인 github 블로그 사용법에 대해 알려드리는 글입니다. (목차 전 노출되는 글)"
 toc: true
 rating: 5
@@ -46,7 +44,7 @@ author: kangdaecheol <!-- 필수값. 작성자 이름. _config.yml에 등록된 
 categories: [Blog Usage] <!-- 선택값. 본문의 카테고리 구분. 본문 하단에 생성됨 -->
 tags: [red, yellow] <!-- 선택값. 본문의 태그. 본문 하단에 생성됨 -->
 image: assets/images/11.jpg <!-- 필수값. 게시글에 노출되는 기본 이미지 및 썸네일 이미지 -->
-featured: true <!-- 선택값. 홈의 상단 featured에 노출 시킬지 여부 -->
+featured: true <!-- 선택값. 홈의 상단 featured에 노출 시킬지 여부. -->
 hidden: false  <!-- 선택값. featured: true인 경우 홈의 하단 All Posts에 게시글을 노출 시킬지 여부 -->
 toc: true <!-- 선택값. true인 경우 본문 대타이틀 기준으로 본문 및 사이드바에 목차 생성. 클릭시 anchor이동 -->
 beforetoc: "Test" <!-- 선택값. toc: true일 경우 본문에서 목차 이전에 노출시킬 텍스트 -->
