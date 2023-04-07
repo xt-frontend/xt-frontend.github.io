@@ -29,8 +29,6 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .article-post .emoji {
   display: inline-block;
-  width: 20px;
-  height: 20px;
 }
 a {
   color: #00ab6b;
@@ -786,6 +784,15 @@ h6 {
 .article-post h6 {
   font-weight: 700;
   margin-bottom: 1rem;
+}
+.article-post h1 .emoji,
+.article-post h2 .emoji,
+.article-post h3 .emoji,
+.article-post h4 .emoji,
+.article-post h5 .emoji,
+.article-post h6 .emoji {
+  width: 2.5rem;
+  height: 2.5rem;
 }
 
 .article-post img.shadow {
