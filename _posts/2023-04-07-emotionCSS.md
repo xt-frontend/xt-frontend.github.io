@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "[Emotion.JS👩‍🎤]"
-author: ohaneul
-categories: [GSAP]
-tags: [GSAP]
+author: jeonhyeonjeong
+categories: [Emotion CSS]
+tags: [Emotion CSS]
 image: assets/images/emotion/emotion-banner.png
 toc: true
 ---
