@@ -23,12 +23,15 @@ License: https://www.wowthemes.net/freebies-license/
 .mainheading {
   padding: 1rem 0rem;
 }
-
 .featured-image,
-.article-post img {
+.article-post img:not(.emoji) {
   width: 100%;
 }
-
+.article-post .emoji {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
 a {
   color: #00ab6b;
   transition: all 0.2s;
@@ -374,7 +377,9 @@ blockquote {
 
 .article-post p,
 .article-post blockquote {
-  margin: 0 0 1.5rem 0;
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
 }
 
 .article-post p + h2,
