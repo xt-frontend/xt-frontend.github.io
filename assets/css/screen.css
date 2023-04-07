@@ -222,6 +222,7 @@ section.recent-posts {
 .post-top-meta .author-thumb {
   width: 72px;
   height: 72px;
+  object-fit: cover !important;
 }
 
 .post-top-meta.authorpage .author-thumb {
