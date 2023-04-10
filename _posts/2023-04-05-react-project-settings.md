@@ -4,7 +4,7 @@ title: "React Project 공통정의"
 author: kimgyutae
 categories: [React]
 tags: [React]
-image: assets/images/12.jpg
+image: assets/images/logo-xt-lg.png
 toc: true
 ---
 
