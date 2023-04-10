@@ -80,10 +80,10 @@ css props 설정
 ```jsx
 render(
   <div
-    css={{
+    css={% raw %}{{
       color: "darkorchid",
       backgroundColor: "lightgray",
-    }}
+    }}{% endraw %}
   >
     This is darkorchid.
   </div>
@@ -95,15 +95,19 @@ render(
 ```jsx
 render(
   <div
-    css={{
-      color: "darkorchid",
-      "& .name": {
-        color: "orange",
-      },
-    }}
+    css={% raw %}{
+      {
+        color: "darkorchid",
+        "& .name": {
+          color: "orange"
+        }
+      }
+    }{% endraw %}
   >
     This is darkorchid.
-    <div className="name">This is orange</div>
+    <div
+
+    className="name">This is orange</div>
   </div>
 );
 ```
@@ -114,10 +118,10 @@ css 속성값으로 숫자를 쓸 경우 px 단위를 생략할 수 있습니다
 ```jsx
 render(
   <div
-    css={{
+    css={% raw %}{{
       padding: 8,
       zIndex: 200,
-    }}
+    }}{% endraw %}
   >
     This has 8px of padding and a z-index of 200.
   </div>
