@@ -27,8 +27,11 @@
   <a
     class="ml-1 mr-1"
     href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"
-    >{{site.paginate_path}} Next &raquo;</a
+    >{{site.paginate_path}}
+    <br />
+    {{ paginator.next_page_path | prepend: site.baseurl }} Next &raquo;</a
   >
+
   {% else %}
   <span> Next &raquo;</span>
   {% endif %}
