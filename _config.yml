@@ -22,7 +22,7 @@ authors:
   kangdaecheol:
     name: mcrg012
     display_name: mcrg012
-    avatar: "assets/images/avatar.png"
+    avatar: "assets/images/avatar/kangdaecheol-avatar.jpg"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: mcrg012@ex-it.co.kr
     web: https://www.wowthemes.net
@@ -31,8 +31,8 @@ authors:
 
   # 김규태
   kimgyutae:
-    name: XT Frontend Kim Gyutae
-    display_name: XT Frontend Kim Gyutae
+    name: uncha
+    display_name: uncha
     avatar: "assets/images/avatar/uncha-avatar.jpeg"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: uncha@ex-it.co.kr
@@ -42,52 +42,52 @@ authors:
 
   # 도신애
   doshinae:
-    name: XT Frontend Do Shinae
-    display_name: XT Frontend Do Shinae
+    name: elin0117
+    display_name: elin0117
     avatar: "assets/images/avatar/doshinae-avatar.jpeg"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: mcrg012@ex-it.co.kr
+    email: elin0117@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "XT 프론트엔드 개발실 도신애입니다."
 
   # 김학민
   kimhakmin:
-    name: XT Frontend Kim Hakmin
-    display_name: XT Frontend Kim Hakmin
-    avatar: "assets/images/avatar.png"
+    name: kimhm260
+    display_name: kimhm260
+    avatar: "assets/images/avatar/kimhakmin-avatar.jpeg"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: mcrg012@ex-it.co.kr
+    email: kimhm260@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "XT 프론트엔드 개발실 김학민입니다."
 
   # 김유리
   kimyuri:
-    name: XT Frontend Kim Yuri
-    display_name: XT Frontend Kim Yuri
+    name: yuri
+    display_name: yuri
     avatar: "assets/images/avatar.png"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: mcrg012@ex-it.co.kr
+    email: yuri@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "XT 프론트엔드 개발실 김유리입니다."
 
   # 소원진
   sowonjin:
-    name: XT Frontend So Wonjin
-    display_name: XT Frontend So Wonjin
-    avatar: "assets/images/avatar.png"
+    name: swj907
+    display_name: swj907
+    avatar: "assets/images/avatar/sowonjin-avatar.jpeg"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: mcrg012@ex-it.co.kr
+    email: swj907@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "XT 프론트엔드 개발실 소원진입니다."
 
   # 전현정
   jeonhyeonjeong:
-    name: XT Frontend Jeon Hyeonjeong
-    display_name: XT Frontend Jeon Hyeonjeong
+    name: jeonhyeonjeong
+    display_name: jeonhyeonjeong
     avatar: "assets/images/avatar/jhj.png"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: jeonhyeonjeong@ex-it.co.kr
@@ -97,44 +97,44 @@ authors:
 
   # 박상수
   parksangsu:
-    name: XT Frontend Park Sangsu
-    display_name: XT Frontend Park Sangsu
+    name: pss0728
+    display_name: pss0728
     avatar: "assets/images/avatar.png"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: mcrg012@ex-it.co.kr
+    email: pss0728@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "XT 프론트엔드 개발실 박상수입니다."
 
   # 오하늘
   ohaneul:
-    name: XT Frontend O Haneul
-    display_name: XT Frontend O Haneul
+    name: neulhere
+    display_name: neulhere
     avatar: "assets/images/avatar/ohaneul-avatar.jpeg"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: mcrg012@ex-it.co.kr
+    email: neulhere@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "XT 프론트엔드 개발실 오하늘입니다."
 
   # 정수인
   jeongsuin:
-    name: XT Frontend Jeong Suin
-    display_name: XT Frontend Jeong Suin
+    name: suin9207
+    display_name: suin9207
     avatar: "assets/images/avatar.png"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: mcrg012@ex-it.co.kr
+    email: suin9207@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "XT 프론트엔드 개발실 정수인입니다."
 
   # 김유라
   kimyura:
-    name: XT Frontend Kim Yura
-    display_name: XT Frontend Kim Yura
+    name: urakim
+    display_name: urakim
     avatar: "assets/images/avatar.png"
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: mcrg012@ex-it.co.kr
+    email: urakim@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "XT 프론트엔드 개발실 김유라입니다."

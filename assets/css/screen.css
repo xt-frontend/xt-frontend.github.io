@@ -215,10 +215,15 @@ section.recent-posts {
 }
 
 .post-top-meta {
+  flex-wrap: nowrap;
+  margin-left: 0;
   margin-bottom: 2rem;
 }
 
 .post-top-meta .author-thumb {
+  flex: 1 0 100%;
+  margin-right: 25px;
+  max-width: 72px;
   width: 72px;
   height: 72px;
   object-fit: cover !important;
@@ -357,7 +362,9 @@ span.post-read-more a:hover {
 }
 
 .link-dark {
-  color: rgba(0, 0, 0, 0.8);
+  font-size: 16px !important;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.8) !important;
 }
 
 .article-post {
