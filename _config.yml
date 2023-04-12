@@ -27,7 +27,7 @@ authors:
     email: mcrg012@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "XT 프론트엔드 개발실 강대철입니다."
+    description: ""
 
   # 김규태
   kimgyutae:
@@ -38,7 +38,7 @@ authors:
     email: uncha@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "XT 프론트엔드 개발실 김규태입니다."
+    description: ""
 
   # 도신애
   doshinae:
@@ -49,7 +49,7 @@ authors:
     email: elin0117@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "XT 프론트엔드 개발실 도신애입니다."
+    description: ""
 
   # 김학민
   kimhakmin:
@@ -60,7 +60,7 @@ authors:
     email: kimhm260@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "XT 프론트엔드 개발실 김학민입니다."
+    description: ""
 
   # 김유리
   kimyuri:
@@ -71,7 +71,7 @@ authors:
     email: yuri@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "XT 프론트엔드 개발실 김유리입니다."
+    description: ""
 
   # 소원진
   sowonjin:
@@ -82,7 +82,7 @@ authors:
     email: swj907@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "XT 프론트엔드 개발실 소원진입니다."
+    description: ""
 
   # 전현정
   jeonhyeonjeong:
@@ -93,7 +93,7 @@ authors:
     email: jeonhyeonjeong@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "XT 프론트엔드 개발실 전현정입니다."
+    description: ""
 
   # 박상수
   parksangsu:
@@ -104,7 +104,7 @@ authors:
     email: pss0728@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "XT 프론트엔드 개발실 박상수입니다."
+    description: ""
 
   # 오하늘
   ohaneul:
@@ -115,7 +115,7 @@ authors:
     email: neulhere@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "XT 프론트엔드 개발실 오하늘입니다."
+    description: ""
 
   # 정수인
   jeongsuin:
@@ -126,7 +126,7 @@ authors:
     email: suin9207@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "XT 프론트엔드 개발실 정수인입니다."
+    description: ""
 
   # 김유라
   kimyura:
@@ -137,7 +137,7 @@ authors:
     email: urakim@ex-it.co.kr
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "XT 프론트엔드 개발실 김유라입니다."
+    description: ""
 
 # Plugins
 plugins:
