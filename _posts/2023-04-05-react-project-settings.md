@@ -102,7 +102,7 @@ export default useGate;
 
 되도록 설계서에 정의된 path를 기반으로 작성 권유 (찾기가 쉬움)
 
-### 6) state or stsore
+### 6) state or store
 
 전역상태관리정의
 
