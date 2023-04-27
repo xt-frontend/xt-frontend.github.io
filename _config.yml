@@ -1,7 +1,7 @@
 # Site
-name: "XT Frontend"
-title: "XT Frontend"
-description: "XT Frontend 개발 블로그입니다."
+name: "XT Frontend DEV."
+title: "XT Frontend DEV."
+# description: "XT Frontend 개발 블로그입니다."
 logo: "assets/images/logo-xt.png"
 favicon: "assets/images/logo-xt.png"
 url: "https://xt-frontend.github.io"
