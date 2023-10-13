@@ -13,7 +13,7 @@ toc: true
 
 <div class="row post-top-meta">
     <div>
-        <img class="author-thumb" src="https://xt-frontend.github.io/assets/images/avatar.png" alt="yuri">
+        <img class="author-thumb" src="https://xt-frontend.github.io/assets/images/avatar.png" alt="swj907">
     </div>
     <div>
         <span class="link-dark">소원진</span>
@@ -22,3 +22,7 @@ toc: true
         <span class="author-description"></span>
     </div>
 </div>
+
+#### docker를 통해서 배포 환경을 구축하여, 재배포시 시간을 단축시킬 수 있다.
+
+#### 도커를 사용해야 하는지 의문이 듬...
