@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "1회 Tech Confirence"
-author: uncha
+author: kimgyutae
 categories: [Blog Usage]
 tags: [Tech Confirence]
 image: assets/images/tech/ideogram.jpeg
