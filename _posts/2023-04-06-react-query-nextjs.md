@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "React Query + Next.js"
-author: sowonjin
-categories: [React Query]
+author: kimhakmin
+categories: [Tech]
 tags: [react-query, next.js]
 image: assets/images/react-query.png
 toc: true

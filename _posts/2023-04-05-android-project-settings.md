@@ -2,8 +2,8 @@
 layout: post
 title: "안드로이드 프로젝트 세팅"
 author: kimgyutae
-categories: [React]
-tags: [React]
+categories: [Convention]
+tags: [Android, Convention]
 image: assets/images/logo-xt-lg.png
 toc: false
 ---

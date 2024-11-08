@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "[API Mocking] MSW(Mock Service Worker)를 이용하여 FE 업무 효율성을 높여보자. + Postman Mock Server"
-author: kimyuri
-categories: [Blog Usage]
-tags: [블로그 사용 방법]
+author: kimyura
+categories: [Tech]
+tags: [MSW]
 image: assets/images/api-moking.png
 beforetoc: "본 게시글은 기본적인 github 블로그 사용 방법에 대해 알려드리는 글입니다."
 toc: true

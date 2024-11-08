@@ -2,8 +2,8 @@
 layout: post
 title: "React Project 공통정의"
 author: kimgyutae
-categories: [React]
-tags: [React]
+categories: [Convention]
+tags: [React, Convention]
 image: assets/images/logo-xt-lg.png
 toc: true
 ---

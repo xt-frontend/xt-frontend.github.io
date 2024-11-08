@@ -2,7 +2,7 @@
 layout: post
 title: "[Emotion.JS👩‍🎤]"
 author: jeonhyeonjeong
-categories: [Emotion CSS]
+categories: [Tech]
 tags: [Emotion CSS]
 image: assets/images/emotion/emotion-banner.png
 toc: true

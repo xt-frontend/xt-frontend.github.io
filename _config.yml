@@ -20,13 +20,12 @@ disqus: "xt-frontend"
 authors:
   # 강대철
   kangdaecheol:
-    name: mcrg012
-    display_name: mcrg012
-    avatar: "assets/images/avatar/kangdaecheol-avatar.jpg"
+    name: mcrg012 # 아이디
+    display_name: mcrg012 # 실제 노출되는 아이디
+    avatar: "assets/images/avatar/kangdaecheol-avatar.jpg" # 아바타 이미지
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: mcrg012@ex-it.co.kr
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: mcrg012@ex-it.co.kr # 이메일
+    web: https://www.wowthemes.net # 개인 블로그 url
     description: ""
 
   # 김규태
@@ -37,7 +36,6 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: uncha@ex-it.co.kr
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
     description: ""
 
   # 도신애
@@ -48,7 +46,6 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: elin0117@ex-it.co.kr
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
     description: ""
 
   # 김학민
@@ -59,29 +56,6 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: kimhm260@ex-it.co.kr
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: ""
-
-  # 김유리
-  kimyuri:
-    name: yuri
-    display_name: yuri
-    avatar: "assets/images/avatar.png"
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: yuri@ex-it.co.kr
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: ""
-
-  # 소원진
-  sowonjin:
-    name: swj907
-    display_name: swj907
-    avatar: "assets/images/avatar/sowonjin-avatar.jpeg"
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: swj907@ex-it.co.kr
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
     description: ""
 
   # 전현정
@@ -92,7 +66,6 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: jeonhyeonjeong@ex-it.co.kr
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
     description: ""
 
   # 박상수
@@ -103,29 +76,6 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: pss0728@ex-it.co.kr
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: ""
-
-  # 오하늘
-  ohaneul:
-    name: neulhere
-    display_name: neulhere
-    avatar: "assets/images/avatar/ohaneul-avatar.jpeg"
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: neulhere@ex-it.co.kr
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: ""
-
-  # 정수인
-  jeongsuin:
-    name: suin9207
-    display_name: suin9207
-    avatar: "assets/images/avatar.png"
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: suin9207@ex-it.co.kr
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
     description: ""
 
   # 김유라
@@ -136,7 +86,6 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: urakim@ex-it.co.kr
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
     description: ""
 
 # Plugins
