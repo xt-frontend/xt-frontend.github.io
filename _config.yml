@@ -88,6 +88,16 @@ authors:
     web: https://www.wowthemes.net
     description: ""
 
+  # 송영춘
+  songyeoungchun:
+    name: songyeoungchun
+    display_name: songyeoungchun
+    avatar: "assets/images/syc-avatar.png"
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: yy8703@ex-it.co.kr
+    web: https://mydevlop.tistory.com/
+    description: ""
+
 # Plugins
 plugins:
   - jekyll-paginate
