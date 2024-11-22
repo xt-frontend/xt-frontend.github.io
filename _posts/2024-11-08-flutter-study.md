@@ -4,7 +4,7 @@ title: "1회차 Flutter Study"
 author: kangdaecheol
 categories: [Study]
 tags: [Study, Flutter]
-image: assets/images/logo-xt-lg.png
+image: assets/images/tech/ideogram.jpeg
 beforetoc: "본 게시글은 기본적인 github 블로그 사용 방법에 대해 알려드리는 글입니다."
 toc: false
 ---
