@@ -1,2 +1,1 @@
-# XT Frontend Tech Blog
-
+# XT DEV Tech Blog
